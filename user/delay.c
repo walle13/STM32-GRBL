@@ -2,7 +2,7 @@
 #include "stm32f10x.h"
 #include "delay.h"
 /***************************************************************/
-
+//////////////
 static u8  fac_us=0;                                               // us The multiplier delay times 
 static u16 fac_ms=0;                                               // ms The multiplier delay times 
 /***************************************************************/
